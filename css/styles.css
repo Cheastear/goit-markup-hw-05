@@ -679,7 +679,7 @@ img {
     justify-content: center;
     fill: transparent;
 }
-input:checked + .modal-div-for-checkbox-label-span {
+.privacy-checkbox:checked + .modal-div-for-checkbox-label-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
